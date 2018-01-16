@@ -1,4 +1,4 @@
-package com.hackerrank.evandro.strings;
+package com.hackerrank.evandro.java.strings;
 
 import java.util.Scanner;
 
