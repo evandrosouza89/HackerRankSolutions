@@ -24,3 +24,8 @@ A set of solutions to some hacker rank (https://www.hackerrank.com/) challenges.
 |Challenge|Solution|
 |---|---|
 |[Goodland Electricity challenge](https://www.hackerrank.com/challenges/pylons/problem) | [GoodlandElectricity.java](src/com/hackerrank/evandro/algorithms/greedy/GoodlandElectricity.java)|
+
+### Algorithms/Dynamic Programming
+|Challenge|Solution|
+|---|---|
+|[Angry Children 2 challenge](https://www.hackerrank.com/challenges/angry-children-2/problem) | [AngryChildren2.java](src/com/hackerrank/evandro/algorithms/dynamicprogramming/AngryChildren2.java)|
